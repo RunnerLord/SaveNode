@@ -1,6 +1,6 @@
 # SaveNode
 
-![Icon](https://user-images.githubusercontent.com/96730892/147489160-26af5970-521a-46b4-840d-74738f374ec4.png)
+![Icon](https://user-images.githubusercontent.com/96730892/147489523-61ad8e21-e87b-43cc-aa23-b532c6edd335.png)
 
 SaveNode is a Godot addon which makes it very easy to setup savestates for your Godot game.
 
