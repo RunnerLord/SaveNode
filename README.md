@@ -16,3 +16,12 @@ SaveNode is a Godot addon which makes it very easy to setup savestates for your 
 2. Select the `addons/SaveNode` folder and move it into your Godot project. 
 (**Note**: make sure the structure is still `res://addons/SaveNode`)
 4. Now go to the plugins tab also inside project-settings and enable the SaveNode plugin.
+
+# Documentation
+
+### Properties
+|Type|Name|description|
+|----|----|-----------|
+|`dictionary`|data|The var which will be saved and loaded.|
+|`func`|saveData()|When used, the var data will be saved into an savefile.|
+|`func`|loadData()|When used, the data from the savestate will be put into the var data.|
