@@ -19,7 +19,7 @@ SaveNode is a Godot addon which makes it very easy to setup savestates for your 
 
 # Documentation
 
-### Properties
+## Properties
 |Type|Name|description|
 |----|----|-----------|
 |`dictionary`|data|The var which will be saved and loaded.|
