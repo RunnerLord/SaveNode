@@ -1,6 +1,6 @@
 extends Node
 
-export var filePath = "user://"
+export var filePath = "c:/"
 export var fileName = "save"
 export var fileFormat = ".data"
 
