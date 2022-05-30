@@ -1,6 +1,6 @@
-# SaveNode
+#OUTDATED... WILL BE UPDATED VERY SOON
 
-![icon](https://user-images.githubusercontent.com/96730892/147491598-49396596-4f0f-4e4e-ba83-aac5eec34682.png)
+# SaveNode
 
 SaveNode is a Godot addon which makes it very easy to setup savestates for your Godot game.
 
@@ -12,8 +12,8 @@ SaveNode is a Godot addon which makes it very easy to setup savestates for your 
 
 ### Adding to a existing project
 
-1. Click on the AssetLib inside editor or go to the [Godot Asset Library](https://godotengine.org/asset-library/asset/425) to download the latest release, or you can clone/download this repository to get the latest commit.
-2. Select the `addons/SaveNode` folder and move it into your Godot project. 
+1. Click on the AssetLib inside editor or go to the [Godot Asset Library](https://godotengine.org/asset-library/asset/425) to download the latest release, or you can clone/ download this repository to get the latest commit.
+2. Select the `addons/save_node` folder and move it into your Godot project. 
 (**Note**: make sure the structure is still `res://addons/SaveNode`)
 4. Now go to the plugins tab also inside project-settings and enable the SaveNode plugin.
 
